@@ -15,3 +15,7 @@ build/
 .*.swp
 *.swp
 *.swo
+
+# build files
+*.framework
+*.o
